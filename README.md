@@ -2,14 +2,13 @@
 
 # PL2025::A104185
 
-<div style="display: flex; align-items: center;">
-  <img src="foto.jpg" alt="Minha Foto" width="200" style="margin-right: 20px;">
-  <div>
-    <p><strong>Aluno</strong>: A104185</p>
-    <p><strong>Curso</strong>: Engenharia Informática</p>
-  </div>
-</div>
+# PL2025::A104185
 
-Este repositório contém a resolução dos Trabalhos Práticos Semanais da unidade curricular Processamento de Linguagens (PL2025), ao longo do semestre.
+| <img src="foto.jpg" alt="Minha Foto" width="150"> | **Aluno**: Filipe Lopes Fernandes <br> **Número**:A104185  <br> **Curso**: Engenharia Informática |
+|---|---|
+
+
+Este repositório contém a resolução dos TPCs semanais da unidade curricular Processamento de Linguagens.
+
 
 
