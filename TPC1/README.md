@@ -10,4 +10,4 @@ Sempre que encontrar o caráter "=", o resultado da soma é colocado na saída.
 
 O código da solução pode ser encontrado no seguinte ficheiro:
 
-[somador.py](https://github.com/joaoR21/PL2025/blob/main/TPC1/somador.py)
+[somador.py](https://github.com/filipel65/PL2025/blob/main/TPC1/somador.py)
