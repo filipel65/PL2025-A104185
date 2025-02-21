@@ -10,4 +10,4 @@ Este projeto processa um dataset de obras musicais, organizando os dados por com
 ## Como executar
 
 O código da solução pode ser encontrado no seguinte ficheiro: 
-[parser.py](https://github.com/filipel65/PL2025-104185/blob/main/TPC2/parser.py)
+[parser.py](https://github.com/filipel65/PL2025-A104185/blob/main/TPC2/parser.py)
