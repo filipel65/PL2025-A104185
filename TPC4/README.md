@@ -11,4 +11,4 @@ Pretende-se construir um analisador léxico em *python* para uma linguagem de qu
 
 ## Resultados
 O código está presente no seguinte ficheiro:
-[analex.py](https://github.com/filipel65/PL2025-A104185/blob/main/TPC4/analex.py
+[analex.py](https://github.com/filipel65/PL2025-A104185/blob/main/TPC4/analex.py)
